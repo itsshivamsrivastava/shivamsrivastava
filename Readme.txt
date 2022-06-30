@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+Author: Shivam Srivastava
+Portfolio URL: https://itsshivamsrivastava.github.io/shivamsrivastava/
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Npte: This project is not for downloading. If you want to download this project, please contact us.
+If you have any enquiry regrading for downloading this project.
+
+Contact Us:
+LinkedIn: https://www.linkedin.com/in/itsshivamsrivastava/
+Instagram: https://www.instagram.com/itsshivamsrivastava/
+Facebook: https://www.facebook.com/itsmeshivamsrivastava/
+Twitter: https://www.twitter.com/shivam_142/
