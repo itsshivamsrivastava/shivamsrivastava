@@ -2,15 +2,15 @@
 
 **This is a my portfolio website. I create this website using html, css, javascript, bootstrap and php.** 
 <br> 
-**Portfolio URL:** https://itsshivamsrivastava.github.io/shivamsrivastava/
+**Portfolio URL &nbsp;:** &nbsp; https://itsshivamsrivastava.github.io/shivamsrivastava/
 
 # Contact Us:
-**LinkedIn:** https://www.linkedin.com/in/itsshivamsrivastava/
+**LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp; https://www.linkedin.com/in/itsshivamsrivastava/
 <br>
-**GitHub:** https://www.github.com/itsshivamsrivastava/
+**GitHub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp; https://www.github.com/itsshivamsrivastava/
 <br>
-**Instagram:** https://www.instagram.com/itsshivamsrivastava/
+**Instagram &nbsp;&nbsp;:** &nbsp;&nbsp; https://www.instagram.com/itsshivamsrivastava/
 <br>
-**Facebook:** https://www.facebook.com/itsmeshivamsrivastava/
+**Facebook &nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp; https://www.facebook.com/itsmeshivamsrivastava/
 <br>
-**Twitter:** https://www.twitter.com/shivam_142/
+**Twitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp; https://www.twitter.com/shivam_142/
