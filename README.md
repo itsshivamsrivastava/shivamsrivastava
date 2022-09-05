@@ -2,7 +2,7 @@
 
 **This is a my portfolio website. I create this website using html, css, javascript, bootstrap and php.** 
 <br> 
-**Portfolio URL &nbsp;:** &nbsp; https://itsshivamsrivastava.github.io/shivamsrivastava/
+**Portfolio URL &nbsp;:** &nbsp; https://shivamsrivastava.netlify.app/
 
 # Contact Us:
 **LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp; https://www.linkedin.com/in/itsshivamsrivastava/
