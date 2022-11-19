@@ -4,6 +4,10 @@
 <br> 
 **Portfolio URL:** &nbsp; https://shivamsrivastava.netlify.app/
 
+**Profolio deploy on Azure**
+
+https://shivamsrivastava.azurewebsites.net/
+
 # Contact Us:
 **LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp; https://www.linkedin.com/in/itsshivamsrivastava/
 <br>
