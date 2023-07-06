@@ -5,7 +5,7 @@
 **Portfolio URL:** &nbsp; https://shivamsrivastava.netlify.app/
 
 # 💫 About Me:
-🔭 Check out my Porfolio website: Shivam Srivastava!<br>
+🔭 Check out my Porfolio website: [Shivam Srivastava](https://shivamsrivastava.netlify.app/)!<br>
 🌱 I’m currently learning DSA and ReactJs as well as JavaScript.<br>
 👯 I’m looking for an internship as well as Job.<br>
 🥅 2022 Goals: Learn more about web designing and exploring Cloud Computing<br>
